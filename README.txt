@@ -1,3 +1,6 @@
+I just imported it for my learning convience (via Netbeans).
+This is owned by Someone Else and Not Me..! (by Wiley publication)
+
 Machine Learning - Hands On For Developers and Technical Professionals
 
 All the code covered in the book is here. There's also a directory with the test data used.
